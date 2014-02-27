@@ -1,1 +1,1 @@
-$.colorbox.settings.width = 500;
+$.colorbox.settings.width = '450px';
